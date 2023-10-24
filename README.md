@@ -11,6 +11,8 @@
 -->
 ## Oiii eu sou O Marcelo Biotto, estudante de conteúdo de programação e tecnologia!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobiotto)](https://github.com/marcelobiotto/github-readme-stats)
+ <img height="180cm" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBiotto&layout=compact&langs_count=16&theme=dark"/>
+
 
 
 <div style="display: inline_block"><br>
@@ -23,7 +25,7 @@
 </div>
   
   ##
- 
+
 <div> 
 
   <a href="https://instagram.com/marcelobiotto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
