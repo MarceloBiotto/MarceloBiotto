@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com vendas!
+
 - 🌱 Estudando React!!
 - 🤔 Se quiser mandar dicas sobre meus códigos e especialmente React,aceito!
 - 📫 Onde me encontrar: marcelocardosoconsultoria@gmail.com
