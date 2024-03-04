@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudando React e Bootstrap!!
-- 🤔 Se quiser mandar dicas sobre meus códigos e especialmente React,aceito!
+- 🌱 Estudando Vue e python!!
+- 🤔 Se quiser mandar dicas sobre meus códigos e especialmente Vue,aceito!
 - 📫 Onde me encontrar: marcelocardosoconsultoria@gmail.com
 - 😄 Pronomes: ele/dele
 
