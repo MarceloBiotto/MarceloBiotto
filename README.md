@@ -4,7 +4,7 @@
 
 
 - 🌱 Estudando React e python!!
-- 🤔 Se quiser mandar dicas sobre meus códigos e especialmente Vue,aceito!
+- 🤔 Se quiser mandar dicas sobre meus códigos e especialmente React,aceito!
 - 📫 Onde me encontrar: marcelocardosoconsultoria@gmail.com
 - 😄 Pronomes: ele/dele
 
