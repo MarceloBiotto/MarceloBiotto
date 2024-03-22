@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando Vue e python!!
+- 🌱 Estudando React e python!!
 - 🤔 Se quiser mandar dicas sobre meus códigos e especialmente Vue,aceito!
 - 📫 Onde me encontrar: marcelocardosoconsultoria@gmail.com
 - 😄 Pronomes: ele/dele
