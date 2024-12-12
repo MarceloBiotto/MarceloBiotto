@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudando React e python!!
-- 🤔 Se quiser mandar dicas sobre meus códigos e especialmente React,aceito!
+- 🌱 Estudando NodeJs!!
+- 🤔 Se quiser mandar dicas sobre meus códigos e especialmente NodeJs,aceito!
 - 📫 Onde me encontrar: marcelocardosoconsultoria@gmail.com
 - 😄 Pronomes: ele/dele
 
